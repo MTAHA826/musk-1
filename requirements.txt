@@ -5,6 +5,8 @@ transformers
 qdrant_client
 langchain-qdrant
 streamlit
+fastapi
+uvicorn
 bs4
 langchain-google-genai
 pillow
